@@ -1,4 +1,4 @@
-package andabucsa.github.com.testlib;
+package com.github.andabucsa.myapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("andabucsa.github.com.testlib", appContext.getPackageName());
+        assertEquals("com.github.andabucsa.myapplication", appContext.getPackageName());
     }
 }

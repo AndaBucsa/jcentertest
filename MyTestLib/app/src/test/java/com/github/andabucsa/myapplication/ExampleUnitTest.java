@@ -1,4 +1,4 @@
-package andabucsa.github.com.testlib;
+package com.github.andabucsa.myapplication;
 
 import org.junit.Test;
 

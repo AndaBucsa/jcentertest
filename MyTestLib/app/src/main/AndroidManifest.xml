@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
-          package="andabucsa.github.com.testlib"
+          package="com.github.andabucsa.myapplication"
         >
 
     <application
