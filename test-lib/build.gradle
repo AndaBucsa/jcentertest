@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 
 ext {
-    bintrayRepo = 'maven'
+    bintrayRepo = 'andab'
     bintrayName = 'test-lib'
 
     publishedGroupId = 'com.github.andabucsa'
@@ -10,8 +10,8 @@ ext {
 
     libraryDescription = 'A wrapper for Facebook Native Like Button (LikeView) on Android'
 
-    siteUrl = 'https://github.com/AndaBucsa/jcentertest/tree/master/MyTestLib'
-    gitUrl = 'https://github.com/AndaBucsa/jcentertest/tree/master/MyTestLib.git'
+    siteUrl = 'https://github.com/AndaBucsa/jcentertest'
+    gitUrl = 'https://github.com/AndaBucsa/jcentertest.git'
 
     libraryVersion = '0.9.3'
 
